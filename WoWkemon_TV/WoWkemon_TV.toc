@@ -1,0 +1,7 @@
+﻿## Interface: 50100
+## Title: WOWKéMON TV
+## Version: 1.1
+## Author: Nyctrennis
+## Notes: Spectator mode!
+base.lua
+WoWkemon.xml

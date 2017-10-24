@@ -1,0 +1,11 @@
+﻿## Interface: 50100
+## Title: WOWKéMON
+## Version: 1.2.1
+## Author: Nyctrennis
+## Notes: Nycachu, I choose you!
+## SavedVariables: WOWKEMON_TUTORIAL,WOWKEMON_SETTINGS,WOWKEMON_CURRENT_THEME_NAME
+WoWkemon.xml
+base.lua
+themes.lua
+Themes\Ruby&Sapphire\rands.lua
+Themes\Default\default.lua
